@@ -1,0 +1,11 @@
+1.编写jvavscript程序
+2.正确命名为*.jvavscript，并确保本目录只有一个以jvavscript为后缀的文件
+3.运行“jmake.bat”
+4.自行debug
+5.完成!
+
+==============================================
+Thanks
+@ExecuteIf(HWND、TCG)
+@Amiriox
+@JTP

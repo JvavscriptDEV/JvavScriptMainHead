@@ -1,0 +1,5 @@
+jvsbegin(void)
+{
+	cmd_out_print("Hello, World!\n");
+	quit nothing;
+}
